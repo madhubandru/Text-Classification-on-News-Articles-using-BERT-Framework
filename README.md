@@ -47,6 +47,16 @@ As implemented three different succesful approaches for text classification, we 
 
 We have included the csv files of original data set and also include csv names <b>sample.csv</b> in which added the header and used same file all experiments.
 
+##### Fields in Dataset
+1. Class - Category of the news
+2. Title - Heading of the news
+3. Article - Content of the news
+
+##### Field and type
+1. Class - Numeric
+2. Title - String
+3. Article - String
+
 #### Text Preprocessing File
 
 We have maintained a separate py file for text cleaning for removing junk characters, special characters, extra white spaces and convert number to words. We used this <b>preprocess_data.py</b> to clean the article column from the loaded data.
