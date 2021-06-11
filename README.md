@@ -35,7 +35,7 @@ Intent classification plays a crucial role in business growth. Intent classifier
 
 #### Code Files
 
-As implemented three different succesful approaches for text classification, we have maintained a single notebook for each approach. We have also included approach-4 notebook even though it is unsucessful.
+As implemented three different succesful approaches for text classification, we have maintained a single notebook for each approach. We have also included approach-4 notebook although the experiment was unsucessful.
 
 <b>Colab Links</b>
 * Approach-1: https://colab.research.google.com/drive/1n_cOeRdQVS2hQDtZA-hPL7Yt3r4GhY4w#scrollTo=fqfaav6ay9Zf
