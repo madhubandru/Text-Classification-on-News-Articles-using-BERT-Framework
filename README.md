@@ -18,6 +18,19 @@ Intent classification plays a crucial role in business growth. Intent classifier
 3.	Approach-3: BERT model using BERT’s default embedding technique.
 4.	Approach-4: BERT model using embeddings from ELMo.
 
+### IDE
+
+1. Google Colab
+
+### Packages
+
+1. Tensorflow
+2. Keras
+3. Pytorch
+4. Pandas
+5. Numpy
+6. Matplotlib
+
 ### Files included
 
 #### Code Files
