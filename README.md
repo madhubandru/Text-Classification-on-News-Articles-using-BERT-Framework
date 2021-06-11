@@ -30,4 +30,10 @@ We have included the csv files of original data set and also include csv names <
 
 We have maintained a separate py file for text cleaning for removing junk characters, special characters, extra white spaces and convert number to words. We used this <b>preprocess_data.py<b> to clean the article column from the loaded data.
 
-#### Text Preprocessing File
+#### How to use files
+Each approach file is independent so, there is no sequence to follow in execution of approaches.
+* Step-1: Open the colab notebook for any approach.
+* Step-2: Load <b>sample.csv<b> and <b>preprocess_data.py<b> files into the session.
+* Step-3: Connect the session to GPU by changing in runtime>>change runtime type>>select GPU>>Save.
+* Step-4: Run all the code cells till end.
+
