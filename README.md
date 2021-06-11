@@ -10,7 +10,7 @@
 
 #### Code Files
 
-As implemented three different succesful approaches for text classification, we have maintained a single notebook for each approach. In approach experimented is not successfully completed so, we dint include the notebook for same.
+As implemented three different succesful approaches for text classification, we have maintained a single notebook for each approach. We have also included approach-4 notebook even though it is unsucessful.
 
 1.	Approach-1: Baseline Model – Simple Sequential Neural Network.
 2.	Approach-2: BERT Model with Keras Embeddings.
@@ -21,6 +21,7 @@ As implemented three different succesful approaches for text classification, we 
 * Approach-1: https://colab.research.google.com/drive/1n_cOeRdQVS2hQDtZA-hPL7Yt3r4GhY4w#scrollTo=fqfaav6ay9Zf
 * Approach-2: https://colab.research.google.com/drive/1pGUD1AJ5gCdnUzk_gXI_s0fi4M0v--QK#scrollTo=b2XOSLa3SqBh
 * Approach-3: https://colab.research.google.com/drive/1aEXyBsM7l6kCXBs6Uxyz2g1aUSu0OgLv#scrollTo=bW4GkNDLwEei
+* Approach-4: https://colab.research.google.com/drive/1QbyHuWxTursa6sFSYnU9biU-SwU8qQtx#scrollTo=SNTMKfgE61dT
 
 #### Data Files
 
