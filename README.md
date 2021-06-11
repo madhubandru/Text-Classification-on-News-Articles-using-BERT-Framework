@@ -11,16 +11,18 @@ Natural Language Processing (NLP) has many applications such as Sentiment Analys
 
 Intent classification plays a crucial role in business growth. Intent classifier identifies the actual intent of the customer and helps in suggesting a valuable/accurate service. Everyday there will be thousands of customer queries in different firms or applications. Manual attention for every query is a hectic task and this is where the intent classifier makes this job easy.
 
-### Files included
-
-#### Code Files
-
-As implemented three different succesful approaches for text classification, we have maintained a single notebook for each approach. We have also included approach-4 notebook even though it is unsucessful.
+### Methodologies
 
 1.	Approach-1: Baseline Model – Simple Sequential Neural Network.
 2.	Approach-2: BERT Model with Keras Embeddings.
 3.	Approach-3: BERT model using BERT’s default embedding technique.
 4.	Approach-4: BERT model using embeddings from ELMo.
+
+### Files included
+
+#### Code Files
+
+As implemented three different succesful approaches for text classification, we have maintained a single notebook for each approach. We have also included approach-4 notebook even though it is unsucessful.
 
 <b>Colab Links</b>
 * Approach-1: https://colab.research.google.com/drive/1n_cOeRdQVS2hQDtZA-hPL7Yt3r4GhY4w#scrollTo=fqfaav6ay9Zf
