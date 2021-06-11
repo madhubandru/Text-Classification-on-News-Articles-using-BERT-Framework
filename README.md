@@ -19,3 +19,9 @@ As implemented three different succesful approaches for text classification, we 
 
 <b>Colab Links</b>
 * Approach-1: https://colab.research.google.com/drive/1n_cOeRdQVS2hQDtZA-hPL7Yt3r4GhY4w#scrollTo=fqfaav6ay9Zf
+* Approach-2: https://colab.research.google.com/drive/1pGUD1AJ5gCdnUzk_gXI_s0fi4M0v--QK#scrollTo=b2XOSLa3SqBh
+* Approach-3: https://colab.research.google.com/drive/1aEXyBsM7l6kCXBs6Uxyz2g1aUSu0OgLv#scrollTo=bW4GkNDLwEei
+
+#### Data Files
+
+We have included the csv files of original data set and also include csv names <b>sample.csv</b> in which added the header and used same file all experiments.
