@@ -31,14 +31,14 @@ We have included the csv files of original data set and also include csv names <
 
 We have maintained a separate py file for text cleaning for removing junk characters, special characters, extra white spaces and convert number to words. We used this <b>preprocess_data.py</b> to clean the article column from the loaded data.
 
-#### How to use files
+### How to use files
 Each approach file is independent so, there is no sequence to follow in execution of approaches.
 * Step-1: Open the colab notebook of any approach.
 * Step-2: Load <b>sample.csv</b> and <b>preprocess_data.py</b> files into the session.
 * Step-3: Connect the session to GPU by changing in <b>runtime>>change runtime type>>select GPU>>Save</b>.
 * Step-4: Run all the code cells till end.
 
-#### Challenges or Limitations
+### Challenges or Limitations
 
 1. Due to limited (free) GPU resources by Colab, we could not perform experiments on large data set.
 2. Categorical values in the dataset are starting from 1 due to which we faced error <b>CUDA runtime errors. - (Incompatible if started target class variable started off from 1)</b>. We resolved this by changing the class from 0. 
