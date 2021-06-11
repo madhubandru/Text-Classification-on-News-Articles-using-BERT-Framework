@@ -21,7 +21,7 @@ As implemented three different succesful approaches for text classification, we 
 * Approach-1: https://colab.research.google.com/drive/1n_cOeRdQVS2hQDtZA-hPL7Yt3r4GhY4w#scrollTo=fqfaav6ay9Zf
 * Approach-2: https://colab.research.google.com/drive/1pGUD1AJ5gCdnUzk_gXI_s0fi4M0v--QK#scrollTo=b2XOSLa3SqBh
 * Approach-3: https://colab.research.google.com/drive/1aEXyBsM7l6kCXBs6Uxyz2g1aUSu0OgLv#scrollTo=bW4GkNDLwEei
-* Approach-4: https://colab.research.google.com/drive/1QbyHuWxTursa6sFSYnU9biU-SwU8qQtx#scrollTo=SNTMKfgE61dT
+* Approach-4: https://colab.research.google.com/drive/1jsZtjhqit0PKMgM9y_UMNQgOzSr4vF3R#scrollTo=3k2gU7oU5sPL
 
 #### Data Files
 
