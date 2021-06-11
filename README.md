@@ -45,7 +45,7 @@ As implemented three different succesful approaches for text classification, we 
 
 #### Data Files
 
-We have included the all original data csv files and also include file <b>sample.csv</b> which is a renamed version of text.csv with heading added in the top row. We used same file all experiments.
+We have included the all original data csv files and also include file <b>sample.csv</b> which is a renamed version of text.csv with heading added in the top row. Same file has been used for all experiments.
 
 ##### Fields in Dataset
 1. Class - Category of the news
