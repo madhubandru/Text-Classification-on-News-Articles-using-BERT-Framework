@@ -71,5 +71,5 @@ Each approach file is independent so, there is no sequence to follow in executio
 ### Challenges or Limitations
 
 1. Due to limited (free) GPU resources by Colab, we could not perform experiments on large data set.
-2. Categorical values in the dataset are starting from 1 due to which we faced error <b>CUDA runtime errors. - (Incompatible if started target class variable started off from 1)</b>. We resolved this by changing the class from 0. 
+2. Categorical values in the dataset are starting from 1 due to which we faced error <b>CUDA runtime errors. - (Incompatible if started target class variable started off from 1)</b>. We resolved this by changing the classes to start from 0. 
 3. In approach-4, we faced CUDA memory issue when passing ELMo embeddings to BERT model and it is resolved by limiting the data to 50 records. After that we faced <b>RuntimeError: CUDA error: device-side assert triggered</b> and tried to resolve it but unsuccessful. 
